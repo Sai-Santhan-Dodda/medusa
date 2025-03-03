@@ -1,5 +1,18 @@
 # @medusajs/dashboard
 
+## 2.5.2
+
+### Patch Changes
+
+- [#11487](https://github.com/medusajs/medusa/pull/11487) [`c28ae573e50b51bd3ef18de7c0e37b37963c423e`](https://github.com/medusajs/medusa/commit/c28ae573e50b51bd3ef18de7c0e37b37963c423e) Thanks [@kasperkristensen](https://github.com/kasperkristensen)! - fix(dashboard): Use derrived state in DataTable
+
+- [#11690](https://github.com/medusajs/medusa/pull/11690) [`954136f13a4ff00c0fa66d8159f43b2bce90355a`](https://github.com/medusajs/medusa/commit/954136f13a4ff00c0fa66d8159f43b2bce90355a) Thanks [@riqwan](https://github.com/riqwan)! - fix(dashboard): bust variant inventory cache on inventory update
+
+- Updated dependencies []:
+  - @medusajs/admin-shared@2.5.2
+  - @medusajs/js-sdk@2.5.2
+  - @medusajs/icons@2.5.2
+
 ## 2.5.1
 
 ### Patch Changes
